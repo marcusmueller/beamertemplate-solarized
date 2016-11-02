@@ -16,13 +16,12 @@ pres.tex
 
 This is the TeX program that takes the content and generates the final presentation.
 
-GPLv3 (thanks Jeffrey...)
+GPLv3 (thanks Jeffrey...), Copyright 2016 Marcus Müller
 
 header.tex
 ----------
 
-All rights reserved – there's my logo in here, and my name.
-
+All rights reserved – there's my logo in here, and my name. Copyright 2016 Marcus Müller.
 
 content.tex
 -----------
